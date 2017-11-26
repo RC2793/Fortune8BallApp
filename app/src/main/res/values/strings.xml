@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Fortune 8 Ball</string>
+    <string name="titleText">Ask your Fortune?</string>
+    <string name="buttonText">Ask</string>
+
+</resources>
